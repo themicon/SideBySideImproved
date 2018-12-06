@@ -1,0 +1,20 @@
+{
+  "name": "SideBySideImproved",
+  "version": "1.0.0",
+  "description": "SideBySideImproved\r ==================",
+  "main": "jquery.flot.orderBars.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themicon/SideBySideImproved.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themicon/SideBySideImproved/issues"
+  },
+  "homepage": "https://github.com/themicon/SideBySideImproved#readme"
+}
